@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+logzero
+jupyter
+scrapy
+requests
+beautifulsoup4
+selenium
+pymongo
